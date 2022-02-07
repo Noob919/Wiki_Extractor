@@ -10,6 +10,11 @@ This repository contain 2 python scripts.The first one is 'wiki_extractor.py' wh
 - Poppler
 
 ## Set Up
-> Use virtual env
+> Use virtual env <br>
 
+`https://github.com/Noob919/Wiki_Extractor.git`<br>
+
+Install all the dependencies `pip install -r requirements.txt`<br>
+
+<b>Good to go
 
