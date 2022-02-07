@@ -12,7 +12,7 @@ This repository contain 2 python scripts.The first one is 'wiki_extractor.py' wh
 ## Set Up
 > Use virtual env <br>
 
-`https://github.com/Noob919/Wiki_Extractor.git`<br>
+`git clone https://github.com/Noob919/Wiki_Extractor.git`<br>
 
 Install all the dependencies `pip install -r requirements.txt`<br>
 
